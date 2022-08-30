@@ -1,5 +1,3 @@
-console.log('client side js loaded');
-
 const LOCATION_REQUIRED = 'Please enter a location';
 
 function showMessage(input, message, type) {
